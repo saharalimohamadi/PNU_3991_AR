@@ -12,9 +12,8 @@
 - [آدرس رزومه](https://saharalimohamadi.github.io/saharAlimohamadi/)
 
 - [SOP](https://saharalimohamadi.github.io/sop/)
--------------------
 
--[گواهینامه جاوااسکریپ](https://www.sololearn.com/Certificate/1024-20343403/pdf/)
+- [گواهینامه جاوااسکریپ](https://www.sololearn.com/Certificate/1024-20343403/pdf/)
 -------------------
 
 ## گروه ها

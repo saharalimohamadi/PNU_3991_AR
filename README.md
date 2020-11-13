@@ -11,10 +11,8 @@
 
 - [آدرس رزومه](https://saharalimohamadi.github.io/saharAlimohamadi/)
 
-- [SOP](https://saharalimohamadi.github.io/sop/)
-
-- [JavaScript course](https://www.sololearn.com/Certificate/1024-20343403/pdf/)
--------------------
+- [JavaScript](
+-------------------https://www.sololearn.com/Certificate/1024-20343403/pdf/)
 
 ## گروه ها
 

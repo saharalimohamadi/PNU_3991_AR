@@ -11,7 +11,7 @@
 
 - [آدرس رزومه](https://saharmohamadi.github.io/saharAlimohamadi/)
 
-- [Sop](https://saharmohamadi.github.io/sop/)
+- [SOP](https://saharalimohamadi.github.io/sop/)
 
 - [JavaScript](https://www.sololearn.com/Certificate/1024-20343403/pdf/)
 -------------------

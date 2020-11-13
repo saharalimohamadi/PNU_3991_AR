@@ -11,8 +11,8 @@
 
 - [آدرس رزومه](https://saharalimohamadi.github.io/saharAlimohamadi/)
 
-- [JavaScript](
--------------------https://www.sololearn.com/Certificate/1024-20343403/pdf/)
+- [JavaScript](https://www.sololearn.com/Certificate/1024-20343403/pdf/)
+-------------------
 
 ## گروه ها
 

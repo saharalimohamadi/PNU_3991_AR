@@ -13,6 +13,7 @@
 
 - [SOP](https://saharalimohamadi.github.io/sop/)
 
+-[گواهینامه جاوااسکریپ](https://www.sololearn.com/Certificate/1024-20343403/pdf/)
 -------------------
 
 ## گروه ها

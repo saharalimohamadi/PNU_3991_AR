@@ -13,7 +13,7 @@
 
 - [SOP](https://saharalimohamadi.github.io/sop/)
 
-- [JavaScript](https://www.sololearn.com/Certificate/1024-20343403/pdf/)
+- [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20343403/pdf/)
 -------------------
 
 ## گروه ها

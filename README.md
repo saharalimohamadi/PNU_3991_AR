@@ -9,7 +9,7 @@
 
 - [حساب گیت هاب](https://github.com/saharalimohamadi)
 
-- [آدرس رزومه](https://saharmohamadi.github.io/saharAlimohamadi/)
+- [آدرس رزومه](https://saharalimohamadi.github.io/saharAlimohamadi/)
 
 - [SOP](https://saharalimohamadi.github.io/sop/)
 
